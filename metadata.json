@@ -1,0 +1,6 @@
+{
+  "name": "Customer Purchase Prediction",
+  "description": "Frontend-only machine learning application predicting customer purchases using Logistic Regression, Random Forest, behavioral analysis, and dynamic PDF reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
